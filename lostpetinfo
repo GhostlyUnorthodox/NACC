@@ -1,0 +1,52 @@
+<!DOCtype html>
+<html>
+  <head><title>Lost Pet Alert</title>
+    <style>
+      body{
+      background-color:White;
+      color: black;
+      }
+      .link1 {
+      text-align: left;
+      color: blue;
+      }
+      .link2 {
+      text-align: right;
+      color: red;
+      } 
+      table,tr,th,td {
+      background-color: teal;
+      border: 6px solid olive;
+      border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+  <h1>LOST PET ALERT!!!!<h1>
+  <p class="link1";> <a href="http://www.google.com">Find a pet?</a></p>
+    <table style="width:100%">
+      <tr>
+        <th><small>Pet Picture</small></th>
+        <th><small>Pet Color/Tag Info</small></th>
+        <th><small>Pet name/Microchip(y/n)</th>
+        <th><small>After Hours Conact Info</small></th>
+    </tr>
+      <tr>
+        <td><img src="http://breakingsoup.com/wp-content/uploads/2015/05/leroy-the-dog.jpg" alt=Leroy The Dog style="width:300px; hieght:300px;"</td>
+        <td><small>Black/White/Tan(ID#123445)</small></td>
+        <td><small>Leroy the dog has a chip</small></td>
+        <td><small>Geraldine(757)-555-5555</small></td>
+    </tr>
+      <tr>
+        <td><img src="http://media-cache-ak0.pinimg.com/736x/d5/70/32/d570327f7eacfaa1d3e3ccaa6d5410cc.jpg" alt=Jeneanne The Dog style="width:300px; hieght:300px;"</td>
+        <td><small>Black/Brown/White(ID#464JTD)</small></td>
+        <td><small>Jeaneanne The Dog doesn't have a chip</small></td>
+        <td><small>Jimmy(999)-555-5555</small></td>
+    </tr>
+</table>
+
+<p class="link1";> <a href="http://www.google.com">Lost a pet? Submit information here!</a></p>
+<p class="link1";> <a href="http://www.google.com">Report a sighting</a></p>
+
+  </body>
+</html>
