@@ -36,9 +36,24 @@ links:
     </tr>
 </table>
 
+css basic setup
 
-
-
+<style>
+      body{
+      background-color:White;
+      color: black;
+      }
+      .table1 {
+      text-align: left;
+      color: blue;
+      }
+      .table2 {
+      text-align: right;
+      color: red;
+      } 
+      table,tr,th,td {
+      }
+    </style>
 
 
 <!DOCtype html>
