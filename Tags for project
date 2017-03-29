@@ -14,12 +14,27 @@ Basic setup:
 <!--Notes-->
 
 
-
 links:
 <a href="url">link text</a>
 
 
-
+<table style="width:50%">
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 
 
